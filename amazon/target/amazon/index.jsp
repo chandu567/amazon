@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-<body background="https://farm5.staticflickr.com/4489/37850895246_de1e57d263_b.jpg"> <h1 style="color:yellow;text-align:center;">Happy new year</h1>
+<body background="https://www.desicomments.com/dc3/09/297471/2974711.jpg"> <h1 style="color:yellow;text-align:center;">Happy BONALU</h1>
 <h1 style="color:yellow;">Get ready... we have only </h1>
 <h1 style="position: fixed; bottom: 0; width:100%;color:DodgerBlue;text-align:center;">Wishes From CHANDRA SHEKHAR</h1>
 <style>
@@ -24,7 +24,7 @@ font-size: 30px;
 
 <script>
 // Set the date we're counting down to
-var countDownDate = new Date("Jan 1, 2018 15:37:25").getTime();
+var countDownDate = new Date("Aug 6, 2018 15:37:25").getTime();
 
 // Update the count down every 1 second
 var x = setInterval(function() {
